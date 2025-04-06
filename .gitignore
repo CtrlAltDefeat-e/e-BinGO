@@ -21,4 +21,9 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+<<<<<<< HEAD
 serviceAccountKey.json
+=======
+"serviceAccountKey.json" 
+>>>>>>> 6da7641 (Added serviceAccountKey.json to .gitignore)
+"frontend/react_frontend/node_modules/" 
